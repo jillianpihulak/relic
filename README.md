@@ -7,10 +7,9 @@
    WFS URL | [GeoJSON](http://localhost:8080/geoserver/orct/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=orct:ore_counties&maxFeatures=50&outputFormat=application%2Fjson)
 
 
-
-3.1 create a github repository. This repository will store the files of the responded wms image and wfs geojson, and base map web page. Note: Regarding the name of this github repo, please use something related to your base map, names like lab04, assignment04 are not recommended. (3 POINTS)
-
 3.2 In the readme.md file, please paste the wms url and the screenshot of the responded png image. (4 POINTS)
+
+![PNG Screenshot](/img/orct-ore_counties.png)
 
 3.3 In the readme.md, please also past the wfs url, and make an link to the downloaded ore_counties.geojson data. (4 POINTS)
 
