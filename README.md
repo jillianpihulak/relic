@@ -10,9 +10,10 @@
 
 ##### Map Design
 I decided to create a map with a vintage feel as a starting point for my final project. I used yellows, blues, and greens that I found
-on maps from the 1950's and 1960's to create an older feel. I found fonts (using [Google Fonts]())to create an 
+on maps from the 1950's and 1960's to create an older feel. I found fonts (using [Google Fonts](https://fonts.google.com/))to create an 
 older feel. For the water lables, I went for more of an older, nautical feel, and for the lables on
 land, I stuck to a similar style that I'd seen on vintage maps.
 
 [Map URL](https://jillianpihulak.github.io/relic/index.html)  
-[Map Screenshot URL](https://jillianpihulak.github.io/relic/img/Capture.PNG)
+[Map Screenshot URL](https://jillianpihulak.github.io/relic/img/Capture.PNG)  
+[Sales Screenshot](https://jillianpihulak.github.io/relic/img/screenshot.PNG)
