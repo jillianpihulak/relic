@@ -9,11 +9,10 @@
 [GeoJson File](/assets/geoserver-GetFeature.geojson)  
 
 ##### Map Design
+I decided to create a map with a vintage feel as a starting point for my final project. I used yellows, blues, and greens that I found
+on maps from the 1950's and 1960's to create an older feel. I found fonts (using [Google Fonts]())to create an 
+older feel. For the water lables, I went for more of an older, nautical feel, and for the lables on
+land, I stuck to a similar style that I'd seen on vintage maps.
 
-3.4 In the readme.md, please add a link (the link should be in the format of http://[github_username].github.io/[submissio_lab_04]) to access the web page of the mapbox basemap. This web page to access the base map should be the index.html of this github repository. Basically, By clicking on the link, the base map hosted by this github repository will show. Refer to lecture 13 to see a tutorial. (20 POINTS)
-
-3.5 In the readme.md, reflect on your design process - How did you determine the current web map style? What specific topic motivate you to design the map? For example, you can design a map driven by a LGBT topic (I guess the geometric features on the map will be in a rainbow color ramp), or driven by the idea of Beaver Nation (Orange and Black?). (10 POINTS)
-
-Images map based on
-https://wallpaperlayer.com/img/2015/5/map-wallpaper-hd-6552-6830-hd-wallpapers.jpg
-https://cdn.shopify.com/s/files/1/0131/3682/products/vintage-pattern-colorful-world-map-2_1024x1024.jpg?v=1482794402
+[Map URL](https://jillianpihulak.github.io/relic/index.html)  
+[Map Screenshot URL](https://jillianpihulak.github.io/relic/img/Capture.PNG)
